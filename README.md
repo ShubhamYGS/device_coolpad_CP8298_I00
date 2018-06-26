@@ -1,4 +1,4 @@
-# device_coolpad_CP8298_I00# device_coolpad_CP8298_I00
+# device_coolpad_CP8298_I00
 <p align="center">
 Coolpad Note 3 Lite- LineageOS 14.1 / AOSP 7.1.1
 
