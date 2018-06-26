@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "sougata7684/android_vendor_coolpad_CP8298_I00",
+    "target_path": "vendor/coolpad/CP8298_I00",
+    "branch": "LineageOS-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "sougata7684/android_kernel_coolpad_CP8298_I00",
+    "target_path": "kernel/coolpad/CP8298_I00",
+    "branch": "LineageOS-14.1"
+  }
+] 
